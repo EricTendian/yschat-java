@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+.joinleave {
+	font-style: italic;
+	color: #F00;
+	background-color: #D3D3D3;
+}
+
+.mission {
+	font-size: 10pt;
+	color: #00F;
+}
+
+.willreset_in {
+	background-color: #FF0;
+	color: #F00;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.reset_server {
+	background-color: #F00;
+	color: #FFF;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.disable_chat {
+	background-color: #F00;
+	color: #FFF;
+}
+
+.ys_chat_mess {
+	font-style: italic;
+	font-weight: bold;
+	color: #F00;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.default_mess {
+	color: #000;
+}
+
+.time {
+	font-size: 11pt;
+	color: #333;
+}
+
+.pilotnicknam {
+	font-weight: bold;
+	color: #3333FF;
+}
